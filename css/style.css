@@ -161,8 +161,8 @@ section.after {
   z-index: 10;
   top: 0;
   left: 0;
-  height: 80px;
-  width: 80px;
+  height: 72px;
+  width: 72px;
   cursor: pointer;
   background: url(../gambar/menu.png) no-repeat center;
   background-size: 44px;
@@ -181,7 +181,6 @@ section.after {
   font-family: 'Poppins', sans-serif;
   text-align: center;
   margin: 0;
-  margin-top: 20px;
   line-height: 70px;
   -webkit-user-select: halaman1;
 }
