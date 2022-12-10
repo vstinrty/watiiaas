@@ -80,13 +80,13 @@ html {
 section .gambar {
   border-radius: 5px;
   height: auto;
-  max-width: 75%;
+  max-width: 100%;
 }
 
 section .ucapan {
   font-weight: bold;
   font-family: 'Poppins', sans-serif;
-  font-size: 32px;
+  font-size: 24px;
   color: #404040;
 }
 
@@ -95,7 +95,7 @@ section .isiucapan {
   width: 82%;
   font-weight: 400;
   font-family: 'Poppins', sans-serif;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 section.halaman1 {
