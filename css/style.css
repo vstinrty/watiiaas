@@ -11,7 +11,7 @@ html {
   -webkit-tap-highlight-color: transparent;
   height: 100%;
   background: linear-gradient(-45deg, #f1ca89, #f29191, #907fa4, #4aa96c);
-  background-size: 400% 400%;
+  background-size: 100% 100%;
   animation: animasiBegron 15s ease infinite;
   width: 100%;
   padding: 0;
@@ -80,8 +80,8 @@ html {
 section .gambar {
   border-radius: 5px;
   height: auto;
-  max-width: 75%;
-  max-height: 75%;
+  max-width: 50%;
+  max-height: 50%;
 }
 
 section .ucapan {
